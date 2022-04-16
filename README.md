@@ -14,4 +14,4 @@ The tech stack in the backend includes:
   
 For security reason, I cannot share the API endpoint as you will also need the API key to access the endpoint.
 
-For the frontend client, please visit the [find-thy-face repo](https://github.com/nathansom/find-thy-face-api).
+For the frontend client, please visit the [find-thy-face repo](https://github.com/nathansom/find-thy-face).
